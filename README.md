@@ -1,5 +1,7 @@
 # LLM Zoomcamp - dlt + Qdrant Homework Solution
 
+> **Status:** Homework for LLM Zoomcamp 2025, DataTalks.Club. Completed; last updated July 2025.
+
 ![LLM Zoomcamp](https://img.shields.io/badge/LLM-Zoomcamp-blue)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-green)
 ![dlt](https://img.shields.io/badge/dlt-0.4.11%2B-orange)
